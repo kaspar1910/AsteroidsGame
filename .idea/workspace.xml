@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7abf089-9681-4bfa-81be-6b63064f4a13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroid/AsteroidFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroid/AsteroidPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroid/AsteroidProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/Asteroid-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/classes/dk/sdu/cbse/asteroid/Asteroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Asteroid/target/test-classes/META-INF/jpms.args" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/src/main/java/dk/sdu/cbse/bullet/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/src/main/java/dk/sdu/cbse/bullet/BulletMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/src/main/java/dk/sdu/cbse/bullet/BulletMovementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/Bullet-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/classes/dk/sdu/cbse/bullet/Bullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/classes/dk/sdu/cbse/bullet/BulletMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/classes/dk/sdu/cbse/bullet/BulletMovementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Bullet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/target/Collision-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Collision/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/GameData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/GameKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/IEntityProcessorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/IGamePluginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/IPostEntityProcessorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/dk/sdu/cbse/common/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/Common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/GameData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/GameKeys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/IEntityProcessorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/IGamePluginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/IPostEntityProcessorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/dk/sdu/cbse/common/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonAsteroid/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonAsteroid/src/main/java/dk/sdu/cbse/commonAsteroid/Asteroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonAsteroid/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/src/main/java/dk/sdu/cbse/commonBullet/BulletSPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/CommonBullet-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/classes/dk/sdu/cbse/commonBullet/BulletSPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/CommonBullet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/src/main/java/dk/sdu/cbse/main/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/src/main/java/dk/sdu/cbse/main/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/src/main/java/dk/sdu/cbse/main/ModuleConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/Core-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/classes/dk/sdu/cbse/main/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/classes/dk/sdu/cbse/main/Game$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/classes/dk/sdu/cbse/main/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/classes/dk/sdu/cbse/main/ModuleConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/target/Enemy-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Enemy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/PlayerMovementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/PlayerPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/Player-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/classes/dk/sdu/cbse/player/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/classes/dk/sdu/cbse/player/PlayerMovementSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/classes/dk/sdu/cbse/player/PlayerPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/Player/target/test-classes/META-INF/jpms.args" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Asteroid-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Bullet-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Collision-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/CommonBullet-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Core-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Enemy-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/Player-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/javafx-base-25.0.1-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/javafx-base-25.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/javafx-graphics-25.0.1-win.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/javafx-graphics-25.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/micrometer-commons-1.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/micrometer-observation-1.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-aop-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-beans-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-context-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-core-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-expression-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/mods-mvn/spring-jcl-6.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsteroidsFX/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3EN6Sl6vlEGhfTX23aVS7APnXtL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kaspa/Desktop/AsteroidsGame",
+    "onboarding.tips.debug.path": "C:/Users/kaspa/Desktop/AsteroidsGame/ScoreService/src/main/java/dk/sdu/cbse/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7abf089-9681-4bfa-81be-6b63064f4a13" name="Changes" comment="" />
+      <created>1780006681347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780006681347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ScoreService/src/main/java/dk/sdu/cbse/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
