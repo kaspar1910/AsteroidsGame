@@ -18,10 +18,6 @@ public final class PluginLayerLoader {
     public static ModuleLayer createPluginLayer() {
         Path pluginPath = Paths.get("plugins");
 
-        if (!Files.exists(pluginPath)) {
-            throw new IllegalStateException("plugins folder does not exist: " + pluginPath.toAbsolutePath());
-        }
-
         ModuleFinder pluginFinder = ModuleFinder.of(pluginPath);
 
         Set<String> pluginModuleNames = pluginFinder.findAll()
